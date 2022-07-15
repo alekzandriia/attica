@@ -1,0 +1,22 @@
+{
+    "name": "attica",
+    "displayName": "attica",
+    "description": "A simple light theme with pastel colors.",
+    "version": "0.0.1",
+    "keywords": "theme",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "attica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/attica-color-theme.json"
+            }
+        ]
+    }
+}
