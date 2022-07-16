@@ -16,7 +16,11 @@ code --install-extension alekzandriia.attica-theme
 
 ## 📷 Screenshots
 
-![Preview of Attica Theme for VSCode](images/preview.png)
+![Preview of Attica Theme for VSCode](images/preview.png)<br>
+![Preview of Attica Theme for VSCode](images/preview1.png)<br>
+![Preview of Attica Theme for VSCode](images/preview2.png)<br>
+![Preview of Attica Theme for VSCode](images/preview3.png)<br>
+
 
 ## ✏️ Customization
 
