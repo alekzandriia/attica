@@ -2,10 +2,10 @@
     "name": "attica",
     "displayName": "attica",
     "description": "A simple light theme with pastel colors.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "alekzandriia",
     "repository": {
-        "type":"git",
+        "type": "git",
         "url": "https://github.com/alekzandria/attica"
     },
     "icon": "images/icon.png",
