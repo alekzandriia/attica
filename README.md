@@ -35,7 +35,7 @@ Attica was created using the [Theme Studio for VSCode](https://themes.vscode.one
 
 ## 📃 License
 
-`after-sunset-vscode`  is under the terms of the  [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the  [license file](https://marketplace.visualstudio.com/items/Alekzandriia.attica/license).<br><br>
+`attica-vscode`  is under the terms of the  [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the  [license file](https://marketplace.visualstudio.com/items/Alekzandriia.attica/license).<br><br>
 
 ** If you have any questions or notice any bugs please feel free to contact me at mailto:hello@alekzandriia.com **
 
